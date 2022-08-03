@@ -1,3 +1,3 @@
 # stepik_selenium
-homework for the courses
+Homework for courses
 https://stepik.org/course/575/syllabus
